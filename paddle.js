@@ -1,4 +1,3 @@
-
 class Paddle {
     
     constructor(x,y,pWidth,pHeight){
